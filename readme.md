@@ -14,3 +14,4 @@ Esta practica sera desarrollada con estructura de ramales, para el estudiante co
 |No.|Descripcion|Potenciador|Estatus|
 |---|---|---|---|
 |1.|Declaracion de Variables| 1 | Finalizado |
+|2.|Tipos de Variables | 2 | Finalizado |
